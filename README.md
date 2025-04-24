@@ -1,5 +1,5 @@
 # Diseño de Solucion
-![Diseño de solucion] (https://github.com/LuisCif-20/PatternChallenge/blob/main/patternChallenge.png)
+![Diseño de solucion](https://github.com/LuisCif-20/PatternChallenge/blob/main/patternChallenge.png)
 
 # Justificacion del Diseño
 
